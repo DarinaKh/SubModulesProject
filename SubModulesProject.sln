@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubModulesProject", "SubModulesProject\SubModulesProject.csproj", "{A90851D2-EEB3-4484-AFED-A97B45D51012}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForSubModule", "ProjectForSubModule\ProjectForSubModule\ProjectForSubModule.csproj", "{027FF202-45D8-47BD-8722-B8F0642B2D2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{A90851D2-EEB3-4484-AFED-A97B45D51012}.Debug|x86.Build.0 = Debug|x86
 		{A90851D2-EEB3-4484-AFED-A97B45D51012}.Release|x86.ActiveCfg = Release|x86
 		{A90851D2-EEB3-4484-AFED-A97B45D51012}.Release|x86.Build.0 = Release|x86
+		{027FF202-45D8-47BD-8722-B8F0642B2D2C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{027FF202-45D8-47BD-8722-B8F0642B2D2C}.Debug|x86.Build.0 = Debug|Any CPU
+		{027FF202-45D8-47BD-8722-B8F0642B2D2C}.Release|x86.ActiveCfg = Release|Any CPU
+		{027FF202-45D8-47BD-8722-B8F0642B2D2C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
