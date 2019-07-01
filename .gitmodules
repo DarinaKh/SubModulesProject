@@ -1,0 +1,3 @@
+[submodule "ProjectForSubModule"]
+	path = ProjectForSubModule
+	url = https://github.com/DarinaKh/ProjectForSubModule
